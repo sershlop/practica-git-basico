@@ -1,0 +1,5 @@
+git branch
+git merge 
+git clone <URL>
+git push
+git pull
